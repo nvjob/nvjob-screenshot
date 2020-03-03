@@ -11,3 +11,11 @@ U - +1 Second (Time Repit)<br>
 J - -1 Second (Time Repit)<br>
 
 ![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/nvjob%20screenshot/pic/1.png)
+
+-------------------------------------------------------------------
+
+**Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
+
+**License:** MIT License. Clarification of licenses - [nvjob.github.io/mit-license](https://nvjob.github.io/mit-license)
+
+**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
