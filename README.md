@@ -3,7 +3,7 @@
 Script to create screenshots.<br>
 You can take single screenshots and screenshots in automatic mode.
 
-Controls:<br>
+Controls (Keys):<br>
 T - One ScreenShot <br>
 Y - Repit ScreenShot <br>
 U - +1 Second (Time Repit)<br>
